@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fullmap_tests.FullMap_Tests" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-12-08T04:00:35" hostname="DESKTOP-QMT2VVS" time="0.004">
+  <properties/>
+  <testcase name="FullMap_DimensionsTest_shouldBe10and10()" classname="fullmap_tests.FullMap_Tests" time="0.002"/>
+  <testcase name="FullMap_DimensionsTest_shouldBe16and4()" classname="fullmap_tests.FullMap_Tests" time="0.0"/>
+  <testcase name="FullMap_DimensionsTest_shouldBe4and16()" classname="fullmap_tests.FullMap_Tests" time="0.0"/>
+  <testcase name="FullMap_updateEntitiesWithoutMyPlayer_shouldThrowError()" classname="fullmap_tests.FullMap_Tests" time="0.001"/>
+  <system-out><![CDATA[05:00:35.051 [Test worker] ERROR map.fullMap.FullMapEntity - gameEntities does not contain my position. This information has to be contained at all times!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

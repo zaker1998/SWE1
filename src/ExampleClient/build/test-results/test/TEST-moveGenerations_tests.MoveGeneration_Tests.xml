@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="moveGenerations_tests.MoveGeneration_Tests" tests="1" skipped="1" failures="0" errors="0" timestamp="2023-12-08T04:00:35" hostname="DESKTOP-QMT2VVS" time="0.0">
+  <properties/>
+  <testcase name="MoveGeneration_From_OutOfBoundsOfMap()" classname="moveGenerations_tests.MoveGeneration_Tests" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+d05:00:35.023 [Test worker] ERROR map.halfMap.ValidMapChecker - HalfMap size is not 50, size is: 32
+l05:00:35.026 [Test worker] ERROR map.halfMap.HalfMapEntity - Invalid terrain map provided to HalfMapEntity
+d05:00:35.034 [Test worker] ERROR map.halfMap.ValidMapChecker - HalfMap size is not 50, size is: 16
+l05:00:35.034 [Test worker] ERROR map.halfMap.HalfMapEntity - Invalid terrain map provided to HalfMapEntity
+d05:00:35.035 [Test worker] ERROR map.halfMap.ValidMapChecker - HalfMap size is not 50, size is: 32
+l05:00:35.035 [Test worker] ERROR map.halfMap.HalfMapEntity - Invalid terrain map provided to HalfMapEntity
+d05:00:35.036 [Test worker] ERROR map.halfMap.ValidMapChecker - HalfMap size is not 50, size is: 32
+l05:00:35.036 [Test worker] ERROR map.halfMap.HalfMapEntity - Invalid terrain map provided to HalfMapEntity
+d05:00:35.037 [Test worker] ERROR map.halfMap.ValidMapChecker - HalfMap size is not 50, size is: 32
+l05:00:35.037 [Test worker] ERROR map.halfMap.HalfMapEntity - Invalid terrain map provided to HalfMapEntity
+d05:00:35.045 [Test worker] ERROR map.halfMap.ValidMapChecker - HalfMap size is not 50, size is: 32
+l05:00:35.045 [Test worker] ERROR map.halfMap.HalfMapEntity - Invalid terrain map provided to HalfMapEntity
+	œ05:00:35.051 [Test worker] ERROR map.fullMap.FullMapEntity - gameEntities does not contain my position. This information has to be contained at all times!

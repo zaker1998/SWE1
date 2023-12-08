@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gameData_tests.Game_State_Tests" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-08T04:00:35" hostname="DESKTOP-QMT2VVS" time="0.647">
+  <properties/>
+  <testcase name="GameData_updateGameState_ShouldFireChange()" classname="gameData_tests.Game_State_Tests" time="0.644"/>
+  <testcase name="GameData_nextTurn_ShouldFireChangeTwice()" classname="gameData_tests.Game_State_Tests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
